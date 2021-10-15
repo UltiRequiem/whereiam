@@ -1,5 +1,5 @@
-use whereiam::where_i_am;
+mod lib;
 
 fn main() {
-    println!("{}", where_i_am());
+    println!("{}", lib::where_i_am());
 }

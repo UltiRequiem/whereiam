@@ -4,6 +4,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Lines Of Code](https://img.shields.io/tokei/lines/github.com/UltiRequiem/whereiam?color=blue&label=Total%20Lines)
 
+## Usage
+
+Just like [`pwd`](https://en.wikipedia.org/wiki/Pwd):
+
+```bash
+whereiam
+```
+
+> E.g: `/home/justice/repos/whereiam`
+
 ### Installation
 
 ```bash
