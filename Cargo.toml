@@ -1,4 +1,12 @@
 [package]
 name = "whereami"
 version = "0.1.0"
+authors = ["Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>"]
+license = "MIT"
+description = "Print working directory."
+readme = "README.md"
+homepage = "https://github.com/UltiRequiem/whereami"
+repository = "https://github.com/UltiRequiem/whereami"
+keywords = ["cli", "pwd"]
+categories = ["command-line-utilities"]
 edition = "2018"
