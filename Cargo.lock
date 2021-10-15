@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "whereami"
+name = "whereiam"
 version = "0.1.0"

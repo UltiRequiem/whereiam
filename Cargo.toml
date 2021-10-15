@@ -1,5 +1,5 @@
 [package]
-name = "whereami"
+name = "whereiam"
 version = "0.1.0"
 authors = ["Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>"]
 license = "MIT"

@@ -1,7 +1,5 @@
-use std::env;
+use whereiam::where_i_am;
 
 fn main() {
-    let dir = env::current_dir().unwrap();
-
-    println!("{:?}", dir);
+    println!("{}", where_i_am());
 }
