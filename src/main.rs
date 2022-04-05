@@ -1,5 +1,10 @@
-mod lib;
+use whereiam::where_i_am;
 
 fn main() {
-    println!("{}", lib::where_i_am());
+    let path = match where_i_am() {
+        Ok(p) => p,
+        Err(e) => panic!("{}", e),
+    };
+
+    println!("{}", path);
 }

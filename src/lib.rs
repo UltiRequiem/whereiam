@@ -1,5 +1,8 @@
-use std::env;
+use std::{env, io::Result};
 
-pub fn where_i_am() -> String {
-    return format!("{:?}", env::current_dir().unwrap()); 
+/// Returns in string format the current directory.
+pub fn where_i_am() -> Result<String> {
+    let value = format!("{:?}", env::current_dir()?);
+
+    Ok(value)
 }
