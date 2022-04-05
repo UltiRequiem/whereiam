@@ -28,10 +28,8 @@ Or use a binary from
 Just like [`pwd`](https://en.wikipedia.org/wiki/Pwd) 👇
 
 ```bash
-whereiam
+whereiam # /home/justice/repos/whereiam
 ```
-
-> E.g: `/home/justice/repos/whereiam`
 
 ## Authors
 
