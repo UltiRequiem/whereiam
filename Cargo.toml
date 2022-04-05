@@ -1,6 +1,6 @@
 [package]
 name = "whereiam"
-version = "1.0.0"
+version = "1.1.0"
 authors = ["Eliaz Bobadilla <eliaz.bobadilladev@gmail.com>"]
 license = "MIT"
 description = "Print working directory."

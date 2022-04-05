@@ -6,5 +6,5 @@ fn main() {
         Err(e) => panic!("{}", e),
     };
 
-    println!("{}", path);
+    println!("{}", path.as_str());
 }
